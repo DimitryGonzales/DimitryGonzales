@@ -1,4 +1,6 @@
-![Capsule Render Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=timeAuto)
+![Capsule Render Waving Header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto)
+
+![Capsule Render Venom](https://capsule-render.vercel.app/api?type=venom&height=150&color=timeAuto&text=👋Hi,%20I'm%20Dimitry&desc=Welcome%20to%20my%20page!&descAlignY=75)
 
 ## GitHub Stats
 
@@ -16,4 +18,4 @@
     <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Capsule Render Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=timeAuto&section=footer)
+![Capsule Render Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer)
