@@ -10,6 +10,9 @@
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&theme=transparent)
 
+> [!NOTE]
+> WakaTime account created on 2026-08-20
+
 ---
 
 <picture>
