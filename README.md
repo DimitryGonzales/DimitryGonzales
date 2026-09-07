@@ -41,12 +41,13 @@
     <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter
 <hr>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=DimitryGonzales">
 </div>
+-->
 
 <!-- Footer -->
 <img width="100%" alt="Capsule Render Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer">
