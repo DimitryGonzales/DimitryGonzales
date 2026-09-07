@@ -1,30 +1,52 @@
-![Capsule Render Waving Header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto)
+<!-- Header -->
+<img width="100%" alt="Capsule Render Waving Header" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto">
 
-![Capsule Render Venom](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=👋%20Hi,%20I'm%20Dimitry&fontSize=64&fontAlignY=40&desc=Welcome%20to%20my%20page!&descSize=32&descAlignY=60)
+<img width="100%" alt="Capsule Render Venom" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=👋%20Hi,%20I'm%20Dimitry&fontSize=64&fontAlignY=40&desc=Welcome%20to%20my%20page!&descSize=32&descAlignY=60">
 
-## GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/github-dark.png">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-light.png">
+        <img height="20px" alt="GitHub Icon" src="assets/icons/github-light.png">
+        Github Stats
+    </picture>
+</h2>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent) ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=transparent)
+<div align="center">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=transparent">
+</div>
 
-## WakaTime Stats
+<!-- WakaTime Stats -->
+<h2 align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/wakatime-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/wakatime-light.svg">
+        <img height="20px" alt="WakaTime Icon" src="assets/icons/wakatime-light.svg">
+        WakaTime Stats
+    </picture>
+</h2>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&theme=transparent)
+<div align="center">
+    <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&theme=transparent">
+</div>
 
-> [!NOTE]
-> WakaTime account created on 2026-08-20
-
----
+<!-- GitHub Contribution Grid Snake -->
+<hr>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
-    <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<!-- Profile Views Counter -->
+<hr>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=DimitryGonzales">
 </div>
 
-![Capsule Render Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer)
+<!-- Footer -->
+<img width="100%" alt="Capsule Render Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer">
