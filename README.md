@@ -1,6 +1,6 @@
 ![Capsule Render Waving Header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto)
 
-![Capsule Render Venom](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=👋Hi,%20I'm%20Dimitry&fontSize=64&fontAlignY=40&desc=Welcome%20to%20my%20page!&descSize=32&descAlignY=60)
+![Capsule Render Venom](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=👋%20Hi,%20I'm%20Dimitry&fontSize=64&fontAlignY=40&desc=Welcome%20to%20my%20page!&descSize=32&descAlignY=60)
 
 ## GitHub Stats
 
