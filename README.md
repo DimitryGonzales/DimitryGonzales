@@ -21,4 +21,10 @@
     <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=DimitryGonzales">
+</div>
+
 ![Capsule Render Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer)
