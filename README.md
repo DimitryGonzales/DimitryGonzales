@@ -14,7 +14,7 @@
 </h2>
 
 <div align="center">
-    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent">
     <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=transparent">
 </div>
 
@@ -29,16 +29,16 @@
 </h2>
 
 <div align="center">
-    <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&theme=transparent">
+    <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=transparent">
 </div>
 
 <!-- GitHub Contribution Grid Snake -->
 <hr>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <!-- Profile Views Counter -->
