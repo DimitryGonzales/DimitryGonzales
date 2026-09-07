@@ -32,7 +32,7 @@
     <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=transparent">
 </div>
 
-> [!INFO]
+> [!NOTE]
 > WakaTime account created on 2026-08-20. 
 
 <!-- GitHub Contribution Grid Snake -->
