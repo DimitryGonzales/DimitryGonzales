@@ -6,9 +6,9 @@
 <!-- GitHub Stats -->
 <h2 align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="assets/icons/github-dark.png">
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-light.png">
-        <img height="20px" alt="GitHub Icon" src="assets/icons/github-light.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/github-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg">
+        <img height="20px" alt="GitHub Icon" src="assets/icons/github-dark.svg">
         Github Stats
     </picture>
 </h2>
@@ -21,9 +21,9 @@
 <!-- WakaTime Stats -->
 <h2 align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="assets/icons/wakatime-dark.svg">
-        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/wakatime-light.svg">
-        <img height="20px" alt="WakaTime Icon" src="assets/icons/wakatime-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/icons/wakatime-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/icons/wakatime-dark.svg">
+        <img height="20px" alt="WakaTime Icon" src="assets/icons/wakatime-dark.svg">
         WakaTime Stats
     </picture>
 </h2>
