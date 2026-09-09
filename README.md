@@ -14,8 +14,16 @@
 </h2>
 
 <div align="center">
-    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent">
-    <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=transparent">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
+        <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DimitryGonzales&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=light_github">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=dark_github">
+        <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=DimitryGonzales&layout=compact&theme=dark_github">
+    </picture>
 </div>
 
 <!-- WakaTime Stats -->
@@ -29,7 +37,11 @@
 </h2>
 
 <div align="center">
-    <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=transparent">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=light_github">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=dark_github">
+        <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=dark_github">
+    </picture>
 </div>
 
 > [!NOTE]
