@@ -3,6 +3,9 @@
 
 <img width="100%" alt="Capsule Render Venom" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeAuto&text=👋%20Hi,%20I'm%20Dimitry&fontSize=64&fontAlignY=40&desc=Welcome%20to%20my%20page!&descSize=32&descAlignY=60">
 
+> [!NOTE]
+> Accent color is random and changes every minute.
+
 <!-- GitHub Stats -->
 <h2 align="center">
     <picture>
