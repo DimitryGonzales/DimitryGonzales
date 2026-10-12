@@ -101,7 +101,28 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <div align="center">
     </br> <!--START_SECTION:wakatime-->
-    <!--END_SECTION:wakatime-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+
+🔥 Editors: 
+IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
+Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+
+💻 Operating System: 
+Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
+Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
+
+
+ Last Updated on 2026-10-12 07:23:34 UTC
+<!--END_SECTION:wakatime-->
 </div>
 
 > [!NOTE]
