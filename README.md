@@ -40,7 +40,7 @@
 
 > 📦 13.6 kB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2026
+> 🏆 215 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,39 +50,20 @@
  > 
 **I'm a Night 🦉** 
 
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-🌃 Evening                82 commits          ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌙 Night                  59 commits          ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">7 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="12" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">3.47%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">53 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="94" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">26.24%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#808080">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#404040">82 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="54" width="146" height="8" rx="4" fill="#808080"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#404040">40.59%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#808080">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#404040">60 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="78" width="107" height="8" rx="4" fill="#808080"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#404040">29.70%</text></svg>
 📅 **I'm Most Productive on Monday** 
 
-```text
-Monday                   68 commits          ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-```
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">69 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="123" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">34.16%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">18 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="32" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">8.91%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#808080">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#404040">6 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="54" width="11" height="8" rx="4" fill="#808080"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#404040">2.97%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#808080">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#404040">26 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="78" width="46" height="8" rx="4" fill="#808080"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#404040">12.87%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#808080">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#404040">3 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="102" width="5" height="8" rx="4" fill="#808080"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#404040">1.49%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#808080">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#404040">24 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="126" width="43" height="8" rx="4" fill="#808080"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#404040">11.88%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#808080">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#404040">56 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="150" width="100" height="8" rx="4" fill="#808080"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#404040">27.72%</text></svg>
 
 
 **I Mostly Code in Java** 
 
-```text
-Java                     9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">Java</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">9 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="180" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">50.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">Python</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">3 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="60" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">16.67%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#808080">HTML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#404040">3 repos</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="54" width="60" height="8" rx="4" fill="#808080"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#404040">16.67%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#808080">CSS</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#404040">2 repos</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="78" width="40" height="8" rx="4" fill="#808080"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#404040">11.11%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#808080">Shell</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#404040">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="102" width="20" height="8" rx="4" fill="#808080"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#404040">5.56%</text></svg>
 
 
 
 
- Last Updated on 2026-10-12 07:37:27 UTC
+ Last Updated on 2026-10-12 07:52:08 UTC
 <!--END_SECTION:github-->
 
 </div>
