@@ -1,4 +1,4 @@
-name: generate github contribution grid snake animation
+name: Generate GitHub contribution grid snake animation
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    generate:
+    generate-contribution-grid-snake-animation:
         permissions:
             contents: write
         runs-on: ubuntu-latest
