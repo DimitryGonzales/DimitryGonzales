@@ -39,6 +39,10 @@
     </picture>
 </h2>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=light_github">
@@ -46,6 +50,7 @@
         <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=dark_github">
     </picture>
 </div>
+-->
 
 > [!NOTE]
 > WakaTime account created on 2026-08-20. 
