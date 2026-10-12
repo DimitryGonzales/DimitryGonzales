@@ -32,6 +32,12 @@ jobs:
                   UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
                   SHOW_AI_CODE_TIME: "False"
                   SHOW_AI_CODING: "False"
+                  BAR_STYLE: "svg"
+                  BAR_COLOR: "#808080"
+                  BAR_TRACK_COLOR: "#404040"
+                  BAR_RADIUS: "4"
+                  TEXT_PRIMARY_COLOR: "#808080"
+                  TEXT_SECONDARY_COLOR: "#404040"
         
             - name: update wakatime stats
               uses: anmol098/waka-readme-stats@v5
@@ -53,3 +59,9 @@ jobs:
                   UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
                   SHOW_AI_CODE_TIME: "False"
                   SHOW_AI_CODING: "False"
+                  BAR_STYLE: "svg"
+                  BAR_COLOR: "#808080"
+                  BAR_TRACK_COLOR: "#404040"
+                  BAR_RADIUS: "4"
+                  TEXT_PRIMARY_COLOR: "#808080"
+                  TEXT_SECONDARY_COLOR: "#404040"
