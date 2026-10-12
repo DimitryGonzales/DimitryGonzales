@@ -29,6 +29,9 @@
     </picture>
 </div>
 
+<!--START_SECTION:github-->
+<!--END_SECTION:github-->
+
 <!-- WakaTime Stats -->
 <h2 align="center">
     <picture>
@@ -39,64 +42,6 @@
     </picture>
 </h2>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   62 commits          ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-
-🔥 Editors: 
-IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
-Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
-
-💻 Operating System: 
-Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
-Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-
- Last Updated on 2026-10-12 06:12:34 UTC
-<!--END_SECTION:waka-->
-
-<!--
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=light_github">
@@ -104,7 +49,9 @@ Shell                    1 repo              █░░░░░░░░░░�
         <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=fb934d84-bafa-4b02-a4a7-1b1625ab84a0&layout=compact&hide_title=true&theme=dark_github">
     </picture>
 </div>
--->
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 > [!NOTE]
 > WakaTime account created on 2026-08-20. 
@@ -117,14 +64,6 @@ Shell                    1 repo              █░░░░░░░░░░�
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
     <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-<!-- Profile Views Counter
-<hr>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=DimitryGonzales">
-</div>
--->
 
 <!-- Footer -->
 <img width="100%" alt="Capsule Render Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer">
