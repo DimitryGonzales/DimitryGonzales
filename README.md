@@ -6,6 +6,8 @@
 > [!NOTE]
 > Accent color is random and changes every minute.
 
+<br>
+
 <!-- GitHub Stats -->
 <h2 align="center">
     <picture>
@@ -29,57 +31,16 @@
     </picture>
 </div>
 
+<br> 
+
 <div align="center">
-    </br> <!--START_SECTION:github-->
-**🐱 My GitHub Data** 
 
-> 📦 13.6 kB Used in GitHub's Storage 
- > 
-> 🏆 213 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-🌃 Evening                82 commits          ██████████░░░░░░░░░░░░░░░   41.00 % 
-🌙 Night                  58 commits          ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   67 commits          ████████░░░░░░░░░░░░░░░░░   33.50 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-```
-
-
-**I Mostly Code in Java** 
-
-```text
-Java                     9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-
- Last Updated on 2026-10-12 07:23:28 UTC
+<!--START_SECTION:github-->
 <!--END_SECTION:github-->
+
 </div>
+
+<br> 
 
 <!-- WakaTime Stats -->
 <h2 align="center">
@@ -99,34 +60,19 @@ Shell                    1 repo              █░░░░░░░░░░�
     </picture>
 </div>
 
+<br> 
+
 <div align="center">
-    </br> <!--START_SECTION:wakatime-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-
-🔥 Editors: 
-IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
-Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
-
-💻 Operating System: 
-Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
-Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-```
-
-
- Last Updated on 2026-10-12 07:23:34 UTC
+    
+<!--START_SECTION:wakatime-->
 <!--END_SECTION:wakatime-->
+
 </div>
 
 > [!NOTE]
 > WakaTime account created on 2026-08-20. 
+
+<br> 
 
 <!-- GitHub Contribution Grid Snake -->
 <hr>
@@ -136,6 +82,8 @@ Windows                  1 hr 17 mins        ███░░░░░░░░�
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
     <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<br>
 
 <!-- Footer -->
 <img width="100%" alt="Capsule Render Waving Footer" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=footer">
