@@ -30,6 +30,55 @@
 </div>
 
 <!--START_SECTION:github-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 13.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 211 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌃 Evening                82 commits          ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌙 Night                  56 commits          ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   65 commits          ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+```
+
+
+**I Mostly Code in Java** 
+
+```text
+Java                     9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+
+ Last Updated on 2026-10-12 07:05:42 UTC
 <!--END_SECTION:github-->
 
 <!-- WakaTime Stats -->
