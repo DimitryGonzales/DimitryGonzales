@@ -100,6 +100,29 @@ Shell                    1 repo              █░░░░░░░░░░�
 </div>
 
 <!--START_SECTION:wakatime-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+
+🔥 Editors: 
+IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
+Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+
+💻 Operating System: 
+Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
+Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
+
+
+ Last Updated on 2026-10-12 07:05:47 UTC
 <!--END_SECTION:wakatime-->
 
 > [!NOTE]
