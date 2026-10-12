@@ -95,18 +95,25 @@
 <!--START_SECTION:wakatime-->
 📊 **This Week I Spent My Time On** 
 
+```text
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">Java</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">10 hrs 21 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="316" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">87.66%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">HTML</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">34 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="17" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">4.80%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#808080">jsonc</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#404040">26 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="54" width="13" height="8" rx="4" fill="#808080"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#404040">3.67%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#808080">JSON</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#404040">11 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="78" width="6" height="8" rx="4" fill="#808080"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#404040">1.63%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#808080">shell script</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#404040">10 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="102" width="5" height="8" rx="4" fill="#808080"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#404040">1.47%</text></svg>
+Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">IntelliJ IDEA</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">7 hrs 37 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="232" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">64.52%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">Zed</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">4 hrs 11 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="128" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">35.48%</text></svg>
+IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
+Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#808080">Linux</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#404040">10 hrs 30 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="6" width="320" height="8" rx="4" fill="#808080"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#404040">89.02%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#808080">Windows</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#404040">1 hr 17 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#404040"/><rect x="280" y="30" width="40" height="8" rx="4" fill="#808080"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#404040">10.98%</text></svg>
+Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
+Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+```
 
 
-
- Last Updated on 2026-10-12 07:52:14 UTC
+ Last Updated on 2026-10-12 07:56:26 UTC
 <!--END_SECTION:wakatime-->
 
 </div>
