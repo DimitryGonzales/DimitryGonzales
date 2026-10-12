@@ -1,4 +1,4 @@
-name: generate wakatime readme stats
+name: Update WakaTime readme stats
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    update-readme:
+    update-wakatime-readme-stats:
         permissions:
             contents: write
         runs-on: ubuntu-latest
