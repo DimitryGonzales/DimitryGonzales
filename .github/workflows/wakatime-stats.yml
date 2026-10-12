@@ -1,0 +1,104 @@
+name: Update WakaTime stats
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+
+jobs:
+    update-wakatime-stats:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+
+        steps:
+            - name: update wakatime stats
+              uses: anmol098/waka-readme-stats@v5
+              with:
+                  # GitHub access token with Repo scope
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+                  # Your Wakatime API Key
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+                  # Name used in readme to scope the updated section
+                  SECTION_NAME: "waka"
+
+                  # The branch to get the readme from
+                  PULL_BRANCH_NAME: "main"
+
+                  # The branch to update the readme in
+                  PUSH_BRANCH_NAME: "main"
+
+                  # Show the list of OS Worked on In dev metrics
+                  SHOW_OS: "True"
+
+                  # Show the list of projects worked on in dev metrics
+                  SHOW_PROJECTS: "False"
+
+                  # Show the Editors used in dev metrics
+                  SHOW_EDITORS: "True"
+
+                  # Show the time zone in the dev metrics
+                  SHOW_TIMEZONE: "False"
+
+                  # Shows the number of commit graph in the dev metrics
+                  SHOW_COMMIT: "False"
+
+                  # Show the Coding language used in dev metrics
+                  SHOW_LANGUAGE: "True"
+
+                  # Show the Total Lines of code written Badge till date
+                  SHOW_LINES_OF_CODE: "False"
+
+                  # Show language or framework used across different repository
+                  SHOW_LANGUAGE_PER_REPO: "True"
+
+                  # Show the lines of code written in different quarters of different years
+                  SHOW_LOC_CHART: "False"
+
+                  # show day of week you are most productive
+                  SHOW_DAYS_OF_WEEK: "True"
+
+                  # Shows the current profile views
+                  SHOW_PROFILE_VIEWS: "False"
+
+                  # Shows the short facts
+                  SHOW_SHORT_INFO: "False"
+
+                  # Show updated date
+                  SHOW_UPDATED_DATE: "True"
+
+                  # Show Total Time you have coded
+                  SHOW_TOTAL_CODE_TIME: "True"
+
+                  # Git commit with your own name and email
+                  COMMIT_BY_ME: "False"
+
+                  # Git commit message
+                  COMMIT_MESSAGE: "chore: update wakatime stats"
+
+                  # Git commit custom username
+                  COMMIT_USERNAME: "wakatime-stats[bot]"
+
+                  # Git commit custom email
+                  # COMMIT_EMAIL:
+
+                  # Erase commit history on each commit
+                  COMMIT_SINGLE: "False"
+
+                  # Show stats in your own language
+                  # LOCALE:
+
+                  # Updated date format
+                  UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+
+                  # Repos you don't want to be counted
+                  # IGNORED_REPOS:
+                  
+                  # Version of the symbol block and empty of the progress bar
+                  # SYMBOL_VERSION:
+
+                  # Whether to enable action debug logging
+                  # DEBUG_LOGGING:
