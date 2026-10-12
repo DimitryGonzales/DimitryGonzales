@@ -58,7 +58,7 @@ jobs:
                   # Show the lines of code written in different quarters of different years
                   SHOW_LOC_CHART: "False"
 
-                  # show day of week you are most productive
+                  # Show day of week you are most productive
                   SHOW_DAYS_OF_WEEK: "True"
 
                   # Shows the current profile views
@@ -102,3 +102,9 @@ jobs:
 
                   # Whether to enable action debug logging
                   # DEBUG_LOGGING:
+
+                  # Show the all-time AI Code Time badge
+                  SHOW_AI_CODE_TIME: "False"
+
+                  # Show the weekly AI coding breakdown: AI coding time, AI vs. human written lines, token usage, estimated AI cost, sessions/prompts, a per-model breakdown, and a few deduced insights
+                  SHOW_AI_CODING: "False"
