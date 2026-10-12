@@ -42,38 +42,16 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 13.6 kB Used in GitHub's Storage 
- > 
-> 🏆 207 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-🌆 Daytime                53 commits          ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌃 Evening                82 commits          ███████████░░░░░░░░░░░░░░   42.27 % 
-🌙 Night                  52 commits          ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   61 commits          ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Monday                   62 commits          ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.72 % 
 ```
 
 
@@ -114,12 +92,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/main/assets/bar_graph.png)
-
-
- Last Updated on 12/10/2026 04:28:49 UTC
+ Last Updated on 2026-10-12 06:12:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
