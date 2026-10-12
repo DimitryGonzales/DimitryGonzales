@@ -1,4 +1,4 @@
-name: Generate github contribution grid snake animation
+name: generate github contribution grid snake animation
 
 on:
     schedule:
