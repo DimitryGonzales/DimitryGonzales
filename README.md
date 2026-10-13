@@ -21,6 +21,53 @@
 </h2>
 
 <!--START_SECTION:github-->
+**🐱 My GitHub Data** 
+
+> 📦 13.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 225 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+🌆 Daytime                59 commits          ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+🌃 Evening                84 commits          ██████████░░░░░░░░░░░░░░░   39.44 % 
+🌙 Night                  63 commits          ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   79 commits          █████████░░░░░░░░░░░░░░░░   37.09 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Saturday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Sunday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+```
+
+
+**I Mostly Code in Java** 
+
+```text
+Java                     9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+
+ Last Updated on 2026-10-13 05:52:13 UTC
 <!--END_SECTION:github-->
 
 <!-- WakaTime Stats -->
