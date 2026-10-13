@@ -116,23 +116,22 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 21 mins      ██████████████████████░░░   87.66 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Java                     10 hrs 51 mins      ██████████████████████░░░   89.01 % 
+jsonc                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+shell script             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 37 mins       ████████████████░░░░░░░░░   64.52 % 
-Zed                      4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
+IntelliJ IDEA            6 hrs 19 mins       █████████████░░░░░░░░░░░░   51.84 % 
+Zed                      5 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.16 % 
 
 💻 Operating System: 
-Linux                    10 hrs 30 mins      ██████████████████████░░░   89.02 % 
-Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Linux                    12 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-10-12 07:59:27 UTC
+ Last Updated on 2026-10-13 05:46:12 UTC
 <!--END_SECTION:wakatime-->
 
 </div>
