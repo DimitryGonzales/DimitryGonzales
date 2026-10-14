@@ -7,6 +7,12 @@
 <hr>
 
 <div align="center">
+    <b>Profile views</b>
+</div>
+
+<br>
+
+<div align="center">
     <img alt="Moe Counter" src="https://count.getloli.com/@DimitryGonzalesGithub?theme=original-new&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </div>
 
