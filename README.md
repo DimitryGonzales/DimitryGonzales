@@ -1,3 +1,4 @@
+<!-- Stats terminal -->
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-terminal-style-five.vercel.app/api/stats?username=DimitryGonzales&theme=github&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=neofetch%2Cwhoami%2Clanguages%2Cuptime%2Cexit">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-terminal-style-five.vercel.app/api/stats?username=DimitryGonzales&theme=atom&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=neofetch%2Cwhoami%2Clanguages%2Cuptime%2Cexit">
@@ -5,7 +6,9 @@
 </picture>
 
 <hr>
+<br>
 
+<!-- Profile views - Moe counter -->
 <div align="center">
     <b>Profile views</b>
 </div>
@@ -15,6 +18,8 @@
 <div align="center">
     <img alt="Moe Counter" src="https://count.getloli.com/@DimitryGonzalesGithub?theme=original-new&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </div>
+
+<br>
 
 <!-- GitHub Stats -->
 <h2>
@@ -76,6 +81,17 @@ Shell                    1 repo              █░░░░░░░░░░�
  Last Updated on 2026-10-13 05:52:13 UTC
 <!--END_SECTION:github-->
 
+<hr>
+<br>
+
+<!-- GitHub Contribution Grid Snake -->
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br>
 <br>
 
 <!-- WakaTime Stats -->
@@ -113,12 +129,3 @@ Linux                    12 hrs 11 mins      ███████████�
 
 > [!NOTE]
 > WakaTime account created on 2026-08-20. 
-
-<!-- GitHub Contribution Grid Snake -->
-<hr>
-
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
-</picture>
