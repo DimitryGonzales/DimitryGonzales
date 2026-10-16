@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-    <img alt="Moe Counter" src="https://count.getloli.com/@DimitryGonzalesGithub?theme=original-new&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img alt="Moe Counter" src="https://count.getloli.com/@DimitryGonzalesGithub?theme=cat-girls-yay&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </div>
 
 <br>
