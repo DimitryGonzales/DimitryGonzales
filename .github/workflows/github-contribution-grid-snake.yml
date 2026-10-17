@@ -1,4 +1,4 @@
-name: Generate github contribution grid snake animation
+name: Generate github contribution grid snake
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    generate-github-contribution-grid-snake-animation:
+    generate-github-contribution-grid-snake:
         permissions:
             contents: write
         runs-on: ubuntu-latest
@@ -18,7 +18,7 @@ jobs:
               with:
                   ref: main
 
-            - name: Generate github contribution grid snake animation
+            - name: Generate github contribution grid snake
               uses: Platane/snk/svg-only@v3.5.0
               with:
                   github_user_name: ${{ github.repository_owner }}
@@ -38,5 +38,5 @@ jobs:
                       exit 0
                   fi
 
-                  git commit -m "chore: update github contribution grid snake animation"
+                  git commit -m "chore: update github contribution grid snake"
                   git push origin main
