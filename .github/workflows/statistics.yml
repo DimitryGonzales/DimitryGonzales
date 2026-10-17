@@ -6,14 +6,14 @@ on:
     workflow_dispatch:
 
 jobs:
-    update-stats:
+    update-statistics:
         permissions:
             contents: write
         runs-on: ubuntu-latest
         timeout-minutes: 5
 
         steps:
-            - name: update statistics
+            - name: Update statistics
               uses: anmol098/waka-readme-stats@v5
               with:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }}
