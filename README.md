@@ -25,6 +25,12 @@
 <!-- Languages, frameworks and tools -->
 <h2>Things I code with</h2>
 
+<h3>Currently learning</h3>
+
+<a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-1a2d32?style=for-the-badge&logo=react" alt="React badge">
+</a>
+
 <h3>Languages & Frameworks</h3>
 
 <a href="https://www.gnu.org/software/bash/">
@@ -75,12 +81,6 @@
 
 <a href="https://zed.dev/">
     <img src="https://img.shields.io/badge/Zed-302c2c?style=for-the-badge&logo=zedindustries" alt="Zed badge">
-</a>
-
-<h3>Currently learning</h3>
-
-<a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-1a2d32?style=for-the-badge&logo=react" alt="React badge">
 </a>
 
 <br>
