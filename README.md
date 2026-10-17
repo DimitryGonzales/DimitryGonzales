@@ -109,22 +109,22 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      13 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
-Java                     11 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.29 % 
-HTML                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-jsonc                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+CSS                      13 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
+Java                     11 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.63 % 
+HTML                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+properties               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Zed                      28 hrs 32 mins      ████████████████████░░░░░   81.87 % 
-IntelliJ IDEA            6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Zed                      29 hrs 15 mins      █████████████████████░░░░   82.24 % 
+IntelliJ IDEA            6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 
 💻 Operating System: 
-Linux                    34 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-10-16 03:26:44 UTC
+ Last Updated on 2026-10-17 03:17:29 UTC
 <!--END_SECTION:wakatime-->
 
 > [!NOTE]
