@@ -1,0 +1,31 @@
+name: Update statistics
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+
+jobs:
+    update-stats:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+
+        steps:
+            - name: update statistics
+              uses: anmol098/waka-readme-stats@v5
+              with:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+                  SECTION_NAME: "statistics"
+                  SHOW_PROJECTS: "False"
+                  SHOW_TIMEZONE: "False"
+                  SHOW_LOC_CHART: "False"
+                  SHOW_PROFILE_VIEWS: "False"
+                  COMMIT_MESSAGE: "chore: update statistics"
+                  UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+                  SHOW_AI_CODE_TIME: "False"
+                  SHOW_AI_CODING: "False"
+                  
