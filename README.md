@@ -99,7 +99,7 @@
 
 <!-- Github contribution grid snake -->
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/DimitryGonzales/DimitryGonzales/output/github-contribution-grid-snake-dark.svg" alt="Github contribution grid snake animation">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake/github-contribution-grid-snake-dark.svg">
+    <img width="100%" src="assets/github-contribution-grid-snake/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
 </picture>
