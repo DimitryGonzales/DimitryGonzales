@@ -17,9 +17,7 @@
 <h1>👋 Hey there!</h1>
 
 <p>
-    <b>Welcome to my profile!</b>
-    <br>
-    <br>
+    <h3>Welcome to my profile!</h3>
     I'm Dimitry, a software engineering student who enjoys building things, tinkering with my setup, and exploring open-source projects. I'm always curious about new technologies and like figuring out how they work.
 </p>
 
