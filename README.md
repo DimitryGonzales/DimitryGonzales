@@ -89,7 +89,7 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,18 +128,18 @@ Sunday                   56 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      13 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
-Java                     11 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.63 % 
-HTML                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-properties               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSS                      13 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.77 % 
+HTML                     8 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Java                     5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+JavaScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+properties               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Zed                      29 hrs 15 mins      █████████████████████░░░░   82.24 % 
-IntelliJ IDEA            6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Zed                      31 hrs 26 mins      █████████████████████████   99.86 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    35 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -155,7 +155,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-18 02:05:59 UTC
+ Last Updated on 2026-10-19 02:22:46 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
