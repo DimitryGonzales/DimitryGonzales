@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://count.getloli.com">
-        <img src="https://count.getloli.com/@DimitryGonzalesGithub?theme=cat-girls-yay&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe counter">
+        <img src="https://count.getloli.com/@DimitryGonzalesGitHub?theme=cat-girls-yay&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe counter">
     </a>
 </div>
 
