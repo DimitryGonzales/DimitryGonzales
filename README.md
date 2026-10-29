@@ -89,38 +89,38 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.6 kB Used in GitHub's Storage 
  > 
-> 🏆 310 Contributions in the Year 2026
+> 🏆 312 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌃 Evening                252 commits         ██████████████░░░░░░░░░░░   54.78 % 
-🌙 Night                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+🌆 Daytime                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌃 Evening                252 commits         ██████████████░░░░░░░░░░░   54.66 % 
+🌙 Night                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   204 commits         ███████████░░░░░░░░░░░░░░   44.35 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Friday                   5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Monday                   204 commits         ███████████░░░░░░░░░░░░░░   44.25 % 
+Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Friday                   5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Saturday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 ```
 
 
@@ -128,17 +128,17 @@ Sunday                   79 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     7 hrs 41 mins       ██████████████░░░░░░░░░░░   55.25 % 
-shell script             3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     6 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.13 % 
+shell script             2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+TypeScript               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+env                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-Zed                      13 hrs 55 mins      █████████████████████████   100.00 % 
+Zed                      14 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -154,7 +154,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-28 03:01:00 UTC
+ Last Updated on 2026-10-29 03:28:37 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
