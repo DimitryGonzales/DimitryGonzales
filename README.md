@@ -128,17 +128,17 @@ Sunday                   79 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-TypeScript               2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-shell script             2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-env                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Bash                     3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+TypeScript               2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+shell script             2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+env                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-Zed                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Zed                      11 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -154,7 +154,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-30 03:30:30 UTC
+ Last Updated on 2026-10-31 03:15:15 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
