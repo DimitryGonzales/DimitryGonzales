@@ -89,7 +89,7 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,17 +128,17 @@ Sunday                   85 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.81 % 
-shell script             4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-jsonc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Bash                     4 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.51 % 
+shell script             4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
+jsonc                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Zed                      10 hrs 17 mins      █████████████████████████   100.00 % 
+Zed                      9 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -154,7 +154,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-05 04:13:37 UTC
+ Last Updated on 2026-11-06 04:10:37 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
