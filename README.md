@@ -89,7 +89,7 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -99,9 +99,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -128,17 +128,17 @@ Sunday                   85 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
-shell script             4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+TypeScript               1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+shell script             56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Docker                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔥 Editors: 
-Zed                      12 hrs 54 mins      █████████████████████████   100.00 % 
+Zed                      6 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -154,7 +154,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-08 03:20:40 UTC
+ Last Updated on 2026-11-09 03:40:05 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
