@@ -128,17 +128,17 @@ Sunday                   89 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-TypeScript               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-shell script             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+shell script             43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Bash                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Docker                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 
 🔥 Editors: 
-Zed                      6 hrs 59 mins       █████████████████████████   100.00 % 
+Zed                      2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -154,7 +154,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-14 04:01:20 UTC
+ Last Updated on 2026-11-15 03:47:26 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
