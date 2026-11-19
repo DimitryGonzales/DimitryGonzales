@@ -89,13 +89,13 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.0 kB Used in GitHub's Storage 
  > 
-> 🏆 380 Contributions in the Year 2026
+> 🏆 370 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -128,16 +128,14 @@ Sunday                   91 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-shell script             43 mins             ████████████░░░░░░░░░░░░░   47.52 % 
-Bash                     36 mins             ██████████░░░░░░░░░░░░░░░   39.97 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-env                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+shell script             7 mins              ███████████████████░░░░░░   75.84 % 
+JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
 
 🔥 Editors: 
-Zed                      1 hr 32 mins        █████████████████████████   100.00 % 
+Zed                      9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -153,7 +151,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-18 05:07:10 UTC
+ Last Updated on 2026-11-19 05:00:31 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
