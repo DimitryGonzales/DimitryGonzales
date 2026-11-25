@@ -145,17 +145,17 @@ Windows                  11 mins             █░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+Java                     12 repos            ████████████░░░░░░░░░░░░░   50.00 % 
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 2026-11-24 07:35:12 UTC
+ Last Updated on 2026-11-25 06:03:28 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
