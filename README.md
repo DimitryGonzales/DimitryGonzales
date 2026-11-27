@@ -89,38 +89,38 @@
 <h2>Some of my statistics</h2>
 
 <!--START_SECTION:statistics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2026
+> 🏆 416 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-🌆 Daytime                161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌃 Evening                825 commits         █████████████████░░░░░░░░   66.69 % 
-🌙 Night                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+🌆 Daytime                163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌃 Evening                826 commits         █████████████████░░░░░░░░   66.19 % 
+🌙 Night                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   612 commits         ████████████░░░░░░░░░░░░░   49.47 % 
-Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Sunday                   121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Monday                   612 commits         ████████████░░░░░░░░░░░░░   49.04 % 
+Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Thursday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Sunday                   121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
 
 
@@ -128,18 +128,18 @@ Sunday                   121 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-shell script             1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-TypeScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-JavaScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Bash                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+shell script             1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🔥 Editors: 
-Zed                      4 hrs 45 mins       █████████████████████████   100.00 % 
+Zed                      6 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 33 mins       ████████████████████████░   95.93 % 
-Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Linux                    6 hrs 14 mins       ████████████████████████░   96.99 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 **I Mostly Code in Java** 
@@ -155,7 +155,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-26 05:56:52 UTC
+ Last Updated on 2026-11-27 05:50:28 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
