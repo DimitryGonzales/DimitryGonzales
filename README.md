@@ -128,18 +128,18 @@ Sunday                   121 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-Bash                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-shell script             1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-JavaScript               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Bash                     2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+shell script             1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 🔥 Editors: 
-Zed                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Zed                      9 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 14 mins       ████████████████████████░   96.99 % 
-Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Linux                    9 hrs 23 mins       ████████████████████████░   97.98 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 **I Mostly Code in Java** 
@@ -155,7 +155,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-27 05:50:28 UTC
+ Last Updated on 2026-11-28 05:30:25 UTC
 <!--END_SECTION:statistics-->
 
 <hr>
